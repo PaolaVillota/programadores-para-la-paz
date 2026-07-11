@@ -1,0 +1,9 @@
+Evento que activa el flujo:
+
+Cuando se registra una nueva jornada comunitaria.
+
+Mensaje enviado a Telegram:
+
+"Se ha programado una nueva actividad comunitaria. Consulta el calendario para más información."
+
+Información que NO debe enviarse por seguridad: correos electrónicos, números de identificación, direcciones de residencia, contraseñas, información financiera

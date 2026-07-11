@@ -1,0 +1,10 @@
+
+1. Como líder comunitario quiero aprobar solicitudes de voluntarios para organizar mejor las actividades del barrio.
+
+2. Como vecino quiero consultar el calendario de jornadas ambientales para participar cuando estén programadas.
+
+3. Como integrante del comité quiero recibir un aviso cuando se programe una reunión para no olvidar la fecha.
+
+4. Como administrador quiero generar un resumen semanal de actividades para evaluar los avances del proyecto.
+
+5. Como ciudadano quiero descargar un informe de las actividades realizadas para conocer los resultados.

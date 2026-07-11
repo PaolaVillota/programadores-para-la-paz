@@ -1,0 +1,21 @@
+Las tareas del backlog que realizaría primero son: 
+
+1. Aprobar solicitudes de voluntarios.
+
+2. Consultar el calendario de jornadas ambientales.
+
+¿Por qué son las más importantes?
+
+Porque primero es necesario contar con las personas que participarán y luego informarles cuándo serán las actividades.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando cumple completamente el objetivo para el que fue creada y funciona correctamente.
+
+Definición de terminado
+
+Una tarea se considera terminada cuando:
+
+- Cumple el objetivo planteado.
+- Fue probada sin presentar errores.
+- Está registrada y subida correctamente al repositorio GitHub.
