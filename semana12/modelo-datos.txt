@@ -1,0 +1,20 @@
+Entidad: Propuesta
+
+- id
+- nombre_propuesta
+- objetivo
+- fecha_creacion
+- estado
+
+Esta entidad almacena la información principal de cada iniciativa creada por la comunidad.
+
+
+Entidad: Participante
+
+- id
+- propuesta_id
+- nombre
+- correo
+- fecha_apoyo
+
+Esta entidad guarda el registro de las personas que apoyan una propuesta determinada mediante la relación propuesta_id.

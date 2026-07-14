@@ -1,0 +1,10 @@
+Evento que activa la automatización:
+Cuando una propuesta recibe un nuevo apoyo.
+
+Mensaje enviado:
+"Se ha registrado un nuevo respaldo para una propuesta ciudadana"
+
+Información que no debe enviarse: número de documento, dirección de residencia, número telefónico, correo electrónico, información privada de los participantes.
+
+Objetivo:
+Mantener informados a los administradores sin divulgar datos personales.

@@ -1,0 +1,8 @@
+Funcionamiento del sistema "Petición en 3 Clics"
+
+1. Un usuario ingresa al sitio web y registra una nueva propuesta comunitaria.
+2. El sistema almacena la información de la propuesta en la base de datos.
+3. Las personas interesadas consultan las propuestas disponibles y deciden apoyar una de ellas.
+4. Cada apoyo queda registrado automáticamente con la fecha correspondiente.
+5. Cuando la propuesta alcanza una cantidad determinada de apoyos, el sistema prepara un documento oficial.
+6. El documento puede descargarse en formato PDF para presentarlo ante la entidad competente.
