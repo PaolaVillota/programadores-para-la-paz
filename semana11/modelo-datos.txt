@@ -1,0 +1,27 @@
+Entidad: Usuario
+
+Campos principales:
+
+- id
+- nombre
+- correo
+- contraseña
+- fecha_registro
+
+Propósito:
+Guardar la información de las personas registradas para que puedan ingresar a la plataforma y participar de manera segura.
+
+
+Entidad: Proyecto Comunitario
+
+Campos principales:
+
+- id
+- nombre
+- descripción
+- categoría
+- fecha_creación
+- estado
+
+Propósito:
+Registrar los proyectos comunitarios que los ciudadanos proponen para mejorar su barrio o comunidad y hacer seguimiento a su desarrollo.

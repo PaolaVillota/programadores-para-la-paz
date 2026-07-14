@@ -1,0 +1,5 @@
+El login permite verificar la identidad de una persona antes de utilizar determinadas funciones de la plataforma. Gracias a este mecanismo, solo los usuarios autorizados pueden modificar información o registrar nuevos proyectos. 
+
+Algunas rutas deben estar protegidas para impedir accesos no autorizados. 
+
+Además, no se deben exponer públicamente datos confidenciales como contraseñas, números de identificación, correos electrónicos privados o claves de acceso, ya que esto podría comprometer la seguridad y la privacidad de los usuarios. Asimismo, la autenticación permite llevar un control de las acciones realizadas por cada usuario dentro del sistema, facilitando la trazabilidad y la administración de la plataforma. De esta manera, se fortalece la confianza de los usuarios y se reduce el riesgo de pérdida, alteración o uso indebido de la información almacenada.
